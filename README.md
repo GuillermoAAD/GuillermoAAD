@@ -86,6 +86,9 @@ alt="bitbucket" width="45" height="45"/>
 alt="postman" width="45" height="45"/>
 </p>
 
+
+## 📈 My stats
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillermoaad&show_icons=true&locale=en&layout=compact&theme=dark" alt="guillermoaad" />
 </p>
